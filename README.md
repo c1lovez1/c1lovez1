@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm c1lovez1</h1>
+<h1 align="center">你好，我是 c1lovez1</h1>
 
 <p align="center">
-  Building practical AI systems across computer vision, CUDA acceleration, and LLM infrastructure.
+  专注计算机视觉、CUDA 加速与大模型基础设施的实践与探索。
 </p>
 
 <p align="center">
@@ -14,13 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=c1lovez1&style=flat-square&color=2563eb" alt="Profile views" />
 </p>
 
-## About Me
+## 关于我
 
-- Exploring computer vision, radar perception, CUDA programming, and LLM systems through hands-on projects.
-- Interested in turning research ideas into reproducible code, benchmarks, and readable engineering notes.
-- Open to collaboration on AI infrastructure, model optimization, and applied deep learning projects.
+- 持续围绕计算机视觉、雷达感知、CUDA 编程和 LLM 系统做项目实践。
+- 关注把研究想法落成可复现代码、实验结果和结构清晰的工程实现。
+- 欢迎交流 AI 基础设施、模型优化与深度学习应用相关话题。
 
-## Technical Focus
+## 技术方向
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
-## Featured Projects
+## 代表项目
 
 <p>
   <a href="https://github.com/c1lovez1/DistMultiFormer">
@@ -53,43 +53,43 @@
   </a>
 </p>
 
-## GitHub Snapshot
+## GitHub 概览
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=c1lovez1&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1lovez1&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=c1lovez1&show_icons=true&hide_border=true&bg_color=00000000&rank_icon=github" alt="GitHub 统计" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1lovez1&layout=compact&hide_border=true&bg_color=00000000&langs_count=8" alt="常用语言" />
 </p>
 
 <p>
-  <img height="180" src="https://github-readme-streak-stats.demolab.com?user=c1lovez1&hide_border=true&background=FFFFFF00" alt="GitHub streak" />
+  <img height="180" src="https://github-readme-streak-stats.demolab.com?user=c1lovez1&hide_border=true&background=FFFFFF00" alt="连续提交统计" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c1lovez1&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=c1lovez1&area=true&hide_border=true" alt="GitHub 活动图" />
 </p>
 
-## Metrics
+## 详细指标
 
 <p>
-  <img src="https://raw.githubusercontent.com/c1lovez1/c1lovez1/main/github-metrics.svg" alt="GitHub metrics" />
+  <img src="https://raw.githubusercontent.com/c1lovez1/c1lovez1/main/github-metrics.svg" alt="GitHub 详细指标" />
 </p>
 
-## Achievements
+## 成就展示
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=c1lovez1&theme=flat&no-frame=true&margin-w=12&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=c1lovez1&theme=flat&no-frame=true&margin-w=12&row=1&column=6" alt="GitHub 奖杯" />
 </p>
 
-## Contribution Animation
+## 贡献动画
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/c1lovez1/c1lovez1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/c1lovez1/c1lovez1/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/c1lovez1/c1lovez1/output/github-snake.svg" />
+  <img alt="GitHub 贪吃蛇贡献图" src="https://raw.githubusercontent.com/c1lovez1/c1lovez1/output/github-snake.svg" />
 </picture>
 
-## Connect
+## 联系方式
 
-- GitHub: [github.com/c1lovez1](https://github.com/c1lovez1)
-- Website: [c1lovez1.github.io](https://c1lovez1.github.io/)
-- Profile repo: [github.com/c1lovez1/c1lovez1](https://github.com/c1lovez1/c1lovez1)
+- GitHub： [github.com/c1lovez1](https://github.com/c1lovez1)
+- 个人站点： [c1lovez1.github.io](https://c1lovez1.github.io/)
+- 主页仓库： [github.com/c1lovez1/c1lovez1](https://github.com/c1lovez1/c1lovez1)
